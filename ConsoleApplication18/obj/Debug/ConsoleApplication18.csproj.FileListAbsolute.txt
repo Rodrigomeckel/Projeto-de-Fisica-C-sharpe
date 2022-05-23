@@ -1,0 +1,3 @@
+C:\Users\Samsung\Documents\Visual Studio 2013\Projects\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe.config
+C:\Users\Samsung\Documents\Visual Studio 2013\Projects\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.exe
+C:\Users\Samsung\Documents\Visual Studio 2013\Projects\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.pdb
